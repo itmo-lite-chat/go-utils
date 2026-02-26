@@ -1,4 +1,4 @@
-module github.com/itmo-lite-chat/go-utils.git
+module github.com/itmo-lite-chat/go-utils
 
 go 1.25.5
 
