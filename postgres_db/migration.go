@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"embed"
 
-	"github.com/itmo-lite-chat/go-utils/logger"
+	"github.com/itmo-lite-chat/go-utils.git/logger"
 	"github.com/pkg/errors"
 	"github.com/pressly/goose/v3"
 )
